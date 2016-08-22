@@ -7,6 +7,8 @@
 * [Artoolkit](https://artoolkit.org/)
 * [ButterKnife](http://jakewharton.github.io/butterknife/)
 * [ExoPlayer](https://github.com/google/ExoPlayer)
+* [Picasso](http://square.github.io/picasso/)
+* [Volley](https://developer.android.com/training/volley/index.html)
 
 ## Android Blogs##
 * [Android Weekly](http://androidweekly.net/)
