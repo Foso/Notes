@@ -1,7 +1,5 @@
 # Notes
 
-#usefull things #
-
 ## Android Libraries:##
 
 * [Artoolkit](https://artoolkit.org/)
