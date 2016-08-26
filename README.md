@@ -6,10 +6,12 @@
 * [ButterKnife](http://jakewharton.github.io/butterknife/)
 * [ExoPlayer](https://github.com/google/ExoPlayer)
 * [Picasso](http://square.github.io/picasso/)
+* [Retrofit](https://github.com/square/retrofit)
 * [Volley](https://developer.android.com/training/volley/index.html)
 
-## Android Blogs##
+## Android Blogs/Sites##
 * [Android Weekly](http://androidweekly.net/)
+* [Android Arsenal](https://android-arsenal.com)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki/Android-Bootcamp-Cliffnotes)
 
 ##Android Podcasts##
