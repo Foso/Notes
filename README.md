@@ -16,6 +16,7 @@
 
 ##Android Podcasts##
 * [Android Developers Backstage](http://androidbackstage.blogspot.de/)
+* [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
 * [Fragmented Podcast](http://fragmentedpodcast.com/)
 * [Pandroid](https://pandroid.c-base.org/)
 
