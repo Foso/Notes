@@ -9,3 +9,9 @@ Observable.fromCallable(() -> {
         .subscribe((result) -> {
           //Use result for something
         });
+
+//BackgroundThread
+Schedulers.newThread()
+
+//MainThread
+AndroidSchedulers.mainThread()
