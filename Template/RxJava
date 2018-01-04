@@ -1,0 +1,11 @@
+//Asyntask
+Observable.fromCallable(() -> {
+      //Do Something
+
+      return true;
+    })
+        .subscribeOn(Schedulers.io())
+        .observeOn(AndroidSchedulers.mainThread())
+        .subscribe((result) -> {
+          //Use result for something
+        });
