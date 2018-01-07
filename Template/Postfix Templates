@@ -1,0 +1,14 @@
+//Android 
+.toStringValue : convert to String
+	java.lang.String         →  String.valueOf($expr$)
+	NUMBER                   →   String.valueOf($expr$)
+
+.toast : convert to Toast
+	CLASS                    →  new $expr2$($END$)
+	ANY         →   Toast.makeText(this, $expr$, Toast.LENGTH_SHORT).show();
+
+.logd : log a variable
+	NON_VOID → Log.d("$user*:user():"MyTag"$", "$className*:className()$ :: $methodName*:methodName()$): $expr$="+$expr$);
+
+.nI : new instance
+	CLASS                    → $expr$ $END$ =  new $expr$();
