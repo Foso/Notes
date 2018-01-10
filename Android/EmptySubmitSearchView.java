@@ -1,5 +1,3 @@
-package de.foodboom.android.presentation.common;
-
 import android.content.Context;
 import android.support.v7.widget.SearchView;
 import android.util.AttributeSet;
