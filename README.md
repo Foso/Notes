@@ -10,6 +10,7 @@ Live templates are stored in the following location:
     macOS: ~/Library/Preferences/IntelliJ IDEA<version>/templates 
 
 [ConstraintLayout](https://github.com/Foso/Notes/blob/master/Template/ConstraintLayout.xml)
+
 LiveTemplates for use in a ConstraintLayout xml. With the attributes names of RelativeLayout that will insert the equivalent of an ConstraintLayout. As listed on [ConstraintLayout.com](https://constraintlayout.com/layouts/relativelayout.html)
 
 E.g. layout_below -> app:layout_constraintTop_toBottomOf
