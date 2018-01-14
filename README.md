@@ -1,36 +1,30 @@
-# Notes
+# Collection of useful classes, templates, resources
 
-## Android Libraries:##
 
-* [Artoolkit](https://artoolkit.org/)
-* [ButterKnife](http://jakewharton.github.io/butterknife/)
-* [ExoPlayer](https://github.com/google/ExoPlayer)
-* [Picasso](http://square.github.io/picasso/)
-* [Retrofit](https://github.com/square/retrofit)
-* [Volley](https://developer.android.com/training/volley/index.html)
+# LiveTemplates:
+Insert these in your LiveTemplate file:
+Live templates are stored in the following location:
 
-## Android Blogs/Sites##
-* [Android Weekly](http://androidweekly.net/)
-* [Android Arsenal](https://android-arsenal.com)
-* [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki/Android-Bootcamp-Cliffnotes)
+    Windows: <your_user_home_directory>\.IntelliJ IDEA<version_number>\config\templates
+    Linux: ~IntelliJ IDEA<version>/config/templates
+    macOS: ~/Library/Preferences/IntelliJ IDEA<version>/templates 
 
-##Android Podcasts##
-* [Android Developers Backstage](http://androidbackstage.blogspot.de/)
-* [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug)
-* [Fragmented Podcast](http://fragmentedpodcast.com/)
-* [Pandroid](https://pandroid.c-base.org/)
+[ConstraintLayout](https://github.com/Foso/Notes/blob/master/Template/ConstraintLayout.xml)
+LiveTemplates for use in a ConstraintLayout xml. With the attributes names of RelativeLayout that will insert the equivalent of an ConstraintLayout. As listed on [ConstraintLayout.com](https://constraintlayout.com/layouts/relativelayout.html)
 
-###Android Conference Talks
-##Droidcon
-- [Berlin](https://www.youtube.com/channel/UCF4O2pQ8vBV8YmSAWb5QRPw/videos)
-- [Greece](https://www.youtube.com/channel/UCQDxubTjkrQiSE_eHZRUzTw/videos)
-- [Italy](https://www.youtube.com/channel/UC9f8652addezs8ZUuKPB4Ow/videos)
-- [Kraków](https://www.youtube.com/channel/UCz5xXEdGra5PfOIZQwo5_9g/videos)
-- [Montreal](https://www.youtube.com/channel/UCrOKtfBT1QMV1RY2MqARcUQ/videos)
-- [NewYork](https://www.youtube.com/channel/UC_LIW0OUdsRI21D0xnWkexw/videos)
-- [Paris](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg/videos)
-- [Russia](https://www.youtube.com/channel/UC0b8zl2j1Qo6Xa7UHwfGd8A/videos)
-- [Spain](https://www.youtube.com/channel/UCHxEUV6LqxBAe9ZDfzc15UA/videos)
-- [Zagreb](https://www.youtube.com/channel/UCgie3cPslUv7rrpGGWoWiSA)
+E.g. layout_below -> app:layout_constraintTop_toBottomOf
+
+# Postfix Templates
+Use the Plugin [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates) to add custom Postfix Templates to Intellij/Android Studio
+
+[Collection of my postfix templates](https://github.com/Foso/Notes/blob/master/Template/Postfix%20Templates)
+
+
+# Classes
+[EmptySubmitSearchView](https://github.com/Foso/Notes/blob/master/Android/EmptySubmitSearchView.java)
+
+See explanation [HERE](http://jensklingenberg.de/how-to-use-a-searchview-with-an-empty-query-text-submit/)
+
+
 
 
