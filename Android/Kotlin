@@ -1,0 +1,13 @@
+//RunInBackground
+fun runInBackground(function: () -> Unit) {
+  Observable.fromCallable {
+    function()
+
+    true
+  }
+      .subscribeOn(Schedulers.io())
+      .observeOn(AndroidSchedulers.mainThread())
+      .subscribe { result ->
+        //Use result for something
+      }
+}
