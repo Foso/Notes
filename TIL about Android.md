@@ -1,3 +1,8 @@
+# 07.05
+    You can name imports with Kotlin 
+    https://medium.com/grand-parade/5-small-things-you-probably-dont-know-about-kotlin-255261940de6
+
+
 # 14.1
     You can use multiple ConverterFactories and CallAdapter to one retrofit instance
     [Making Retrofit work you](https://www.youtube.com/watch?v=t34AQlblSeE)
