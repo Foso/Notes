@@ -1,6 +1,8 @@
 # 07.05
-    You can name imports with Kotlin 
+   - You can name imports with Kotlin 
     https://medium.com/grand-parade/5-small-things-you-probably-dont-know-about-kotlin-255261940de6
+
+   - The Kotlin with(){} is like .apply{} but can return any value 
 
 
 # 14.1
