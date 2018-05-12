@@ -1,7 +1,7 @@
 # 12.05
    - AndroidX is the new name for the support libraries
    - Jetpack is a set of guidance for Android Development that can contain AndroidX but doens't have to
-   [Android Jetpack: what’s new in Android Support Library (Google I/O 2018)](https://www.youtube.com/watch?v=jdKUm8tGogw)
+   [Android Jetpack: what’s new in Android Support Library (Google I/O 2018)](https://youtu.be/jdKUm8tGogw?t=4m36s)
 
 # 07.05
    - You can name imports with Kotlin 
