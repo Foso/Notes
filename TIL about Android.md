@@ -1,3 +1,6 @@
+# 15.05
+   - You can find all AndroidX libraries under https://dl.google.com/dl/android/maven2/index.html
+
 # 12.05
    - AndroidX is the new name for the support libraries
    - Jetpack is a set of guidance for Android Development that can contain AndroidX but doens't have to
