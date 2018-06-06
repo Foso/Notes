@@ -7,9 +7,6 @@ fun Moshi.toJson(list: List<Any>): String {
 }
 
 fun Moshi.toJson(any: Any): String {
-
-    val myData: ParameterizedType =
-        Types.newParameterizedType(Any::class.java)
-    val adapter = this.adapter<Any>(myData)
-    return adapter?.toJson(any) ?: ""
+    val jsonAdapter = this.adapter(Any::class.java)
+    return jsonAdapter?.toJson(any) ?: ""
 }
