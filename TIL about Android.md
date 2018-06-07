@@ -1,3 +1,7 @@
+# 07.06
+   - Kotlin: @JvmOverloads Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values.
+   https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.jvm/-jvm-overloads/
+
 # 15.05
    - You can find all AndroidX libraries under https://dl.google.com/dl/android/maven2/index.html
 
