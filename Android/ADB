@@ -1,0 +1,4 @@
+cd /Users/jensklingenberg/Library/Android/sdk/platform-tools 
+./adb connect X.X.X.74:5555
+
+./adb tcpip 5555
