@@ -27,5 +27,8 @@ Use the Plugin [Custom Postfix Templates](https://github.com/xylo/intellij-postf
 See explanation [HERE](http://jensklingenberg.de/how-to-use-a-searchview-with-an-empty-query-text-submit/)
 
 
+# Intellij plugin
+Run Gradle:        
+GradleBuildInvoker.getInstance(project).compileJava(arrayOf(module), TestCompileType.NONE)
 
 
